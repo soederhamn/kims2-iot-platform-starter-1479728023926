@@ -20,6 +20,6 @@
         "node-red-dashboard":"2.x"
     },
     "engines": {
-        "node": "0.12.x"
+        "node": "6.x"
     }
 }
